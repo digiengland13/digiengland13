@@ -25,13 +25,13 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - ✅ Wordpress Migration
 - ✅ Upload website from backup
 - ✅Wishes website
-✓ ✅Google Adverds Manager
-✓ ✅Facebook Ads Manager
-✓ ✅SEO ( Search Engine optimization )
-✓ ✅Google Analytics
-✓ ✅Google Webmaster
-✓ ✅Website backup & Migration
-✓ ✅ Punjabi song promotion (Using google adverd , fix unsupported language)
+- ✅Google Adverds Manager
+- ✅Facebook Ads Manager
+- ✅SEO ( Search Engine optimization )
+- ✅Google Analytics
+- ✅Google Webmaster
+- ✅Website backup & Migration
+- ✅ Punjabi song promotion (Using google adverd , fix unsupported language)
 
 ### Languages and Tools :computer:
 <br/><p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
