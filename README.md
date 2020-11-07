@@ -20,11 +20,11 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 
 - 🔭List of my strong technical skills:
 
-✓ ✅Wordpress
-✓ ✅ Wordpress Malware removal & Wordpress security Expert
-✓ ✅ Wordpress Migration
-✓ ✅ Upload website from backup
-✓ ✅Wishes website
+- ✅Wordpress
+- ✅ Wordpress Malware removal & Wordpress security Expert
+- ✅ Wordpress Migration
+- ✅ Upload website from backup
+- ✅Wishes website
 ✓ ✅Google Adverds Manager
 ✓ ✅Facebook Ads Manager
 ✓ ✅SEO ( Search Engine optimization )
