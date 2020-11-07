@@ -15,7 +15,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, C, C++
-- 🤪 Fun fact: I love to travel and meet new people.
+- 🤪 Fun fact: I am Robot Type in Real Life.
 
 
 - 🔭List of my strong technical skills:
