@@ -2,8 +2,8 @@
 
 ![Name](name.png)
 
-[![Twitter Badge](http://img.shields.io/badge/-@imanishbarnwal-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/imanishbarnwal)](https://twitter.com/imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/imanishbarnwal)](https://www.linkedin.com/in/imanishbarnwal)
-[![Gmail Badge](https://img.shields.io/badge/-hello@manishbarnwal.tech-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:hello@manishbarnwal.tech)](mailto:hello@manishbarnwal.tech) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/imanishbarnwal) [![Instagram Badge](https://img.shields.io/badge/-@imanishbarnwal-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/imanishbarnwal)](https://www.instagram.com/imanishbarnwal) [![website](https://img.shields.io/badge/Website-manishbarnwal.tech-2648ff?style=flat-square&logo=google-chrome)](https://manishbarnwal.tech)
+[![Twitter Badge](https://img.shields.io/badge/-@uditmehra631-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/imanishbarnwal)](https://twitter.com/imanishbarnwal) [![Linkedin Badge](https://img.shields.io/badge/-Udit_mehra_631-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/uditmehra631)](https://www.linkedin.com/in/uditmehra631)
+[![Gmail Badge](https://img.shields.io/badge/-uditmehra631@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=uditmehra631@gmail.com)](mailto:uditmehra631@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Manish_Kumar_Barnwal-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/udit.mehra.631) [![Instagram Badge](https://img.shields.io/badge/-@udit.mehra.631-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/udit.mehra.631)](https://www.instagram.com/udit.mehra.631) [![website](https://img.shields.io/badge/Website-uditmehra631.blogspot.com-2648ff?style=flat-square&logo=google-chrome)](https://uditmehra631.blogspot.com)
 
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
 
@@ -26,7 +26,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code></p>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=imanishbarnwal&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=uditmehra631&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 **imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
