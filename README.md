@@ -17,6 +17,22 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 -  ⚡ Languages: Python3, C, C++
 - 🤪 Fun fact: I love to travel and meet new people.
 
+
+- 🔭List of my strong technical skills:
+
+✓ ✅Wordpress
+✓ ✅ Wordpress Malware removal & Wordpress security Expert
+✓ ✅ Wordpress Migration
+✓ ✅ Upload website from backup
+✓ ✅Wishes website
+✓ ✅Google Adverds Manager
+✓ ✅Facebook Ads Manager
+✓ ✅SEO ( Search Engine optimization )
+✓ ✅Google Analytics
+✓ ✅Google Webmaster
+✓ ✅Website backup & Migration
+✓ ✅ Punjabi song promotion (Using google adverd , fix unsupported language)
+
 ### Languages and Tools :computer:
 <br/><p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/cpp/cpp.png"></code>
