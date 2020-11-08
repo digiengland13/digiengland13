@@ -32,6 +32,10 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - ✅Google Webmaster
 - ✅Website backup & Migration
 - ✅ Punjabi song promotion (Using google adverd , fix unsupported language)
+### Spotify Playing 🎧
+
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ykstv4r8kvi00hlge7sw84jk1)
+
 
 ### Languages and Tools :computer:
 <br/><p align="left"><code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
