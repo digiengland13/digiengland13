@@ -32,7 +32,7 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - ✅Google Webmaster
 - ✅Website backup & Migration
 - ✅ Punjabi song promotion (Using google adverd , fix unsupported language)
-### Spotify Playing 🎧
+### Spotify Playing Sidhu Moose Wala🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ)
 
