@@ -62,5 +62,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Shiv mehra](https://img.youtube.com/vi/WCTOzt66rR0&t/0.jpg)](https://www.youtube.com/watch?v=YWCTOzt66rR0&t)
+[![Shiv mehra](https://img.youtube.com/vi/WCTOzt66rR0/0.jpg)](https://www.youtube.com/watch?v=YWCTOzt66rR0)
 
