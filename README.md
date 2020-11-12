@@ -2,10 +2,10 @@
 
 ![Name](udit-mehra.png)
 
-[![Twitter Badge](https://img.shields.io/badge/-@shiv_mehra_13-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shiv_mehra_13)](https://twitter.com/shiv_mehra_13) [![Linkedin Badge](https://img.shields.io/badge/-Udit_mehra_631-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/uditmehra631)](https://www.linkedin.com/in/uditmehra631)
-[![Gmail Badge](https://img.shields.io/badge/-uditmehra631@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=uditmehra631@gmail.com)](mailto:uditmehra631@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Udit_mehra_631-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/udit.mehra.631) [![Instagram Badge](https://img.shields.io/badge/-@udit.mehra.631-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/udit.mehra.631)](https://www.instagram.com/udit.mehra.631) [![website](https://img.shields.io/badge/Website-uditmehra631.blogspot.com-2648ff?style=flat-square&logo=google-chrome)](https://uditmehra631.blogspot.com)
+[![Twitter Badge](https://img.shields.io/badge/-@shiv_mehra_13-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shiv_mehra_13)](https://twitter.com/shiv_mehra_13) [![Linkedin Badge](https://img.shields.io/badge/-shiv_mehra-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/shiv_mehra)](https://www.linkedin.com/in/shiv_mehra)
+[![Gmail Badge](https://img.shields.io/badge/-shivmehra98880@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=shivmehra98880@gmail.com)](mailto:shivmehra98880@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Shiv_mehra-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/shiv.mehra13)](https://www.facebook.com/shiv.mehra13) [![Instagram Badge](https://img.shields.io/badge/-@shiv.mehra-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/shivmehra1997)](https://www.instagram.com/shivmehra1997) [![website](https://img.shields.io/badge/Website-shiv-mehra.blogspot.com/-2648ff?style=flat-square&logo=google-chrome)](https://shiv-mehra.blogspot.com)
 
-I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
+Shiv mehra CEO of Digienglad 👨‍💻 
 
 ### About me :eyes:
 
@@ -15,24 +15,18 @@ I'm an engineering student and a to-be developer 👨‍💻 from India who is p
 - 📫 How to reach me: Links are given above 🔝
 - 😄 Pronouns: he/him
 -  ⚡ Languages: Python3, C, C++
-- 🤪 Fun fact: I am Robot Type in Real Life.
 
 
 - 🔭List of my strong technical skills:
 
-- ✅Wordpress
-- ✅ Wordpress Malware removal & Wordpress security Expert
-- ✅ Wordpress Migration
-- ✅ Upload website from backup
-- ✅Wishes website
+- ✅Wordpress website design
 - ✅Google Adverds Manager
 - ✅Facebook Ads Manager
 - ✅SEO ( Search Engine optimization )
 - ✅Google Analytics
 - ✅Google Webmaster
-- ✅Website backup & Migration
 - ✅ Punjabi song promotion (Using google adverd , fix unsupported language)
-### Spotify Playing Sidhu Moose Wala🎧
+### Spotify Playing Karan Aujla🎧
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ)
 
