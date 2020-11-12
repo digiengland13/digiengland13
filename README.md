@@ -2,7 +2,7 @@
 
 ![Name](udit-mehra.png)
 
-[![Twitter Badge](https://img.shields.io/badge/-@uditmehra631-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/uditmehra631)](https://twitter.com/uditmehra631) [![Linkedin Badge](https://img.shields.io/badge/-Udit_mehra_631-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/uditmehra631)](https://www.linkedin.com/in/uditmehra631)
+[![Twitter Badge](https://img.shields.io/badge/-@shiv_mehra_13-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/shiv_mehra_13)](https://twitter.com/shiv_mehra_13) [![Linkedin Badge](https://img.shields.io/badge/-Udit_mehra_631-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/uditmehra631)](https://www.linkedin.com/in/uditmehra631)
 [![Gmail Badge](https://img.shields.io/badge/-uditmehra631@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=uditmehra631@gmail.com)](mailto:uditmehra631@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Udit_mehra_631-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/imanishbarnwal)](https://www.facebook.com/udit.mehra.631) [![Instagram Badge](https://img.shields.io/badge/-@udit.mehra.631-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/udit.mehra.631)](https://www.instagram.com/udit.mehra.631) [![website](https://img.shields.io/badge/Website-uditmehra631.blogspot.com-2648ff?style=flat-square&logo=google-chrome)](https://uditmehra631.blogspot.com)
 
 I'm an engineering student and a to-be developer 👨‍💻 from India who is passionate about Machine Learning, Python Development and opensource. I'm also a self procliamed digital marketer and internet surfer 🏄‍♂️. 
