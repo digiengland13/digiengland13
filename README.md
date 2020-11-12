@@ -40,7 +40,7 @@ Shiv mehra CEO of Digienglad 👨‍💻
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code></p>
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=uditmehra631&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src="https://github-readme-stats.vercel.app/api?username=shivmehra13&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
 <!--
 **imanishbarnwal/imanishbarnwal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
