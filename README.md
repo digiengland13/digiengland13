@@ -1,11 +1,11 @@
 ![Hello](Hello.gif)
 
-![Name](udit-mehra.png)
+![Name](digiengland-logo.png)
 
 [![Twitter Badge](https://img.shields.io/badge/-@digiengland13-1ca0f1?style=social&logo=twitter&logoColor=blue&link=https://twitter.com/digiengland13)](https://twitter.com/digiengland13) [![Linkedin Badge](https://img.shields.io/badge/-digiengland13-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/digiengland13)](https://www.linkedin.com/in/digiengland13)
-[![Gmail Badge](https://img.shields.io/badge/-shivmehra98880@gmail.com-c14438?style=social&logo=Gmail&logoColor=red&link=shivmehra98880@gmail.com)](mailto:shivmehra98880@gmail.com) [![Facebook Badge](https://img.shields.io/badge/-Digiengland-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/shiv.mehra13)](https://www.facebook.com/digiengland13) [![Instagram Badge](https://img.shields.io/badge/-@Digiengland-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/digiengland_institute)](https://www.instagram.com/digiengland_institute) [![website](https://img.shields.io/badge/Website-digiengland.in-2648ff?style=flat-square&logo=google-chrome)](https://digiengland.in)
+[![Gmail Badge](https://img.shields.io/badge/-info@digiengland.in-c14438?style=social&logo=Gmail&logoColor=red&link=info@digiengland.in)](mailto:info@digiengland.in) [![Facebook Badge](https://img.shields.io/badge/-Digiengland-4267b2?style=social&&logo=Facebook&logoColor=blue&link=https://www.facebook.com/shiv.mehra13)](https://www.facebook.com/digiengland13) [![Instagram Badge](https://img.shields.io/badge/-@Digiengland-833ab4?style=social&logo=Instagram&logoColor=A14DAF&link=https://www.instagram.com/digiengland_institute)](https://www.instagram.com/digiengland_institute) [![website](https://img.shields.io/badge/Website-digiengland.in-2648ff?style=flat-square&logo=google-chrome)](https://digiengland.in)
 
-Shiv mehra CEO of Digienglad 👨‍💻 
+Digienglad, Digital Marketing Company in Jalandhar👨‍💻 
 
 ### About me :eyes:
 
